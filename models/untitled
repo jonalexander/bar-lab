@@ -1,0 +1,19 @@
+
+
+
+open bar
+
+assign bartender
+
+show menu - what do you want to order?
+
+user inputs a drink
+ loop until valid choice
+create order
+
+adds a customer, bartender and drink and price
+
+
+
+# to determine total revenue for said bartender
+# we use the total_revenue method in Bartender class
